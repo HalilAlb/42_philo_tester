@@ -19,6 +19,7 @@ This repository includes a philosopher simulation program along with a script fo
 
 Additional Notes:
 To run the tester.sh script, you need to be in the directory where philo.c is located. This script is used to verify that your philo program is functioning correctly.
+test.sh çalışması için philo dosya içerisinde olması gerekiyor ./tester.sh yaptıgınızda istediğiniz testi deneyebilirsiniz şimdiden kolay gelsin... :)
 
 Make the script executable:
 chmod +x tester.sh
